@@ -2,12 +2,12 @@
 
 <div align="center">
 
-<img src="./assets/banner.png" alt="Hassan Mubiru — Creator of StreetJS" width="100%" />
+<img src="./assets/banner.gif" alt="Hassan Mubiru — Creator of StreetJS" width="100%" />
 
 # Hassan Mubiru
 
 <a href="https://github.com/hassanmubiru/StreetJS">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=1000&color=2563EB&center=true&vCenter=true&width=600&height=44&lines=Creator+of+StreetJS;Full+Stack+Architect;TypeScript+%C2%B7+Node.js+%C2%B7+Flutter" alt="Creator of StreetJS · Full Stack Architect · TypeScript · Node.js · Flutter" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1200&color=2563EB&center=true&vCenter=true&width=640&height=44&lines=Creator+of+StreetJS;Full+Stack+Architect;TypeScript+%C2%B7+Node.js+%C2%B7+Flutter;Building+backend+infrastructure+%26+dev+tools" alt="Creator of StreetJS · Full Stack Architect · TypeScript · Node.js · Flutter · Building backend infrastructure & dev tools" />
 </a>
 
 Building modern backend infrastructure and developer tools.
