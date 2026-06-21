@@ -7,8 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-### Added
-- Placeholder for upcoming profile and branding updates.
+### Changed
+- Simplified the profile README to a minimal, single-screen layout focused on identity (name, headline, mission, current focus, tech stack, featured projects, StreetJS links).
+
+### Removed
+- Visitor counter, GitHub stats, top-languages card, streak stats, trophies, and activity graph widgets.
+- Typing-SVG banner animation, excessive shields badges, and long-form prose sections (founder identity, open-source, expanded StreetJS, contact).
 
 ## [1.0.0] - 2025-01-15
 
