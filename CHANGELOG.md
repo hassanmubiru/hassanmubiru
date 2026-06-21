@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 - Simplified the profile README to a minimal, single-screen layout focused on identity (name, headline, mission, current focus, tech stack, featured projects, StreetJS links).
 - Replaced the static banner with an animated `banner.gif` (flowing brand-gradient accent and rotating ring) and tuned the animated typing headline (slower cadence, added mission line).
+- Added Web3 to the identity: typing headline now includes "Web3 Builder · Celo & Base", and a compact Hackathons highlight notes Celo and Base ecosystem wins.
 
 ### Removed
 - Visitor counter, GitHub stats, top-languages card, streak stats, trophies, and activity graph widgets.
