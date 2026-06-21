@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 Questions & Discussions
+    url: https://github.com/hassanmubiru/StreetJS/discussions
+    about: Ask usage questions and share ideas in Discussions instead of opening an issue.
+  - name: 🔐 Report a security vulnerability
+    url: https://github.com/hassanmubiru/hassanmubiru/security/advisories/new
+    about: Please report security issues privately via a security advisory, not a public issue.

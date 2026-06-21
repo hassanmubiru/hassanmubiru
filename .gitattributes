@@ -1,0 +1,15 @@
+# Normalize line endings for text files
+* text=auto eol=lf
+
+# Treat image assets as binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+
+# SVG is text but should not be diffed line-by-line in PRs
+*.svg -diff
+
+# Language stats: surface docs accurately on GitHub
+*.md linguist-detectable=true

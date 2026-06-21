@@ -1,0 +1,42 @@
+name: 📝 Documentation Issue
+description: Report a gap, error, or unclear section in the documentation.
+title: "[Docs]: "
+labels: ["documentation", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Help keep the docs accurate and clear. Please point to the exact page or section.
+  - type: input
+    id: location
+    attributes:
+      label: Affected document or page
+      description: URL or path to the documentation in question.
+      placeholder: "docs/getting-started.md or https://..."
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What is missing, wrong, or confusing?
+      description: Describe the issue with the current documentation.
+    validations:
+      required: true
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Suggested correction or addition
+      description: How should it read instead? Proposed wording is welcome.
+    validations:
+      required: false
+  - type: dropdown
+    id: audience
+    attributes:
+      label: Who is affected?
+      options:
+        - "New user"
+        - "Integrator / active user"
+        - "Contributor"
+        - "Other"
+    validations:
+      required: true
